@@ -1,6 +1,6 @@
 # Advanced Experiment Design in Unity
 Jan Kettler, student number: 979374  
-Link to the video: https://myshare.uni-osnabrueck.de/smart-link/588f8512-99ed-4a93-9b54-c845131f1839/ 
+Link to the video: https://myshare.uni-osnabrueck.de/f/0478a84304df455b8e5b/
 
 ## Introduction
 Two friends of mine (who are not enrolled in this course) wanted to develop a game, and asked me to join them in programming. Since the plan was to program it using unity, I joined them. The idea was to split the workload so that one would be mainly concerned with graphical design, the other one with story, gameplay and a bit of coding while I would mostly code.
